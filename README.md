@@ -1,5 +1,7 @@
 # Arkiv Live Wire — Ticket Gate
 
+**Live demo:** https://livewire.f12lab.net
+
 A ticket board that updates **only from an Arkiv subscription** — no refresh loop, no `setInterval` fetch.
 Built during an internal ETHROME dry-run for Arkiv's Mission 03 ("Live Wire").
 Findings from the dry-run are in [docs/REPORT.md](docs/REPORT.md).

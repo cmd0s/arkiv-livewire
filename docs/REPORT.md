@@ -73,6 +73,8 @@ Screenshots: [img/livewire-1.png](img/livewire-1.png) (start), [img/livewire-2-c
 
 ## Demo — how to run
 
+Hosted: **https://livewire.f12lab.net** (static build of this repo; the browser talks to the Tiramisu WebSocket RPC directly).
+
 ```bash
 npm install && npm run build
 npm run serve            # http://127.0.0.1:4173/index.html
